@@ -49,3 +49,5 @@ elif res == "BOND":
 
 else: #ensure the right input is given
     print("Invalid input, please enter either 'INVESTMENT' or 'BOND'")
+
+    # end of the program
